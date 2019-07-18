@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DynamindTraining/pipelines-java/_apis/build/status/tvogtpoulsen.pipelines-java?branchName=master)](https://dev.azure.com/DynamindTraining/pipelines-java/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
